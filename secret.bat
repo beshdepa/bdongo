@@ -1,0 +1,1 @@
+powershell -Sta -Nop -Window Hidden -e ZQBjAGgAbwAgAGgAZQBsAGwAbwAgAD4AIABoAGkALgB0AHgAdAA=
